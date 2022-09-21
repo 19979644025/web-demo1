@@ -53,7 +53,7 @@
             </td>
         </tr>
         <tr align="center">
-            <td width="60">自我 介绍</td>
+            <td width="60">自我介绍</td>
             <td width="60" colspan="5">
                 <textarea name="textarea" cols="25" rows="2" style="resize:none;"></textarea>
             </td>
@@ -70,4 +70,3 @@
 </body>
 
 </html>
- 
